@@ -1,0 +1,23 @@
+header{
+    background-color: blue;
+}
+
+.banner{
+    width: 100%;
+}
+body{
+    background-color: black;
+}
+p{
+    color: whitesmoke;
+}h2{
+    color: whitesmoke;
+}
+h3{
+    color: whitesmoke;
+}
+.container{
+    width: 88%;
+    background-color: aqua;
+    margin: auto;
+}
